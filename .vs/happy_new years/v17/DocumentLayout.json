@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Moby-Mikes\\source\\repos\\happy_new years\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA3487B-856B-43DC-AEF2-9D3B7BFD5D3E}|happy_new years\\happy_new years.csproj|c:\\users\\moby-mikes\\source\\repos\\happy_new years\\happy_new years\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FAA3487B-856B-43DC-AEF2-9D3B7BFD5D3E}|happy_new years\\happy_new years.csproj|solutionrelative:happy_new years\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA3487B-856B-43DC-AEF2-9D3B7BFD5D3E}|happy_new years\\happy_new years.csproj|c:\\users\\moby-mikes\\source\\repos\\happy_new years\\happy_new years\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAA3487B-856B-43DC-AEF2-9D3B7BFD5D3E}|happy_new years\\happy_new years.csproj|solutionrelative:happy_new years\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA3487B-856B-43DC-AEF2-9D3B7BFD5D3E}|happy_new years\\happy_new years.csproj|c:\\users\\moby-mikes\\source\\repos\\happy_new years\\happy_new years\\happy_new years.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FAA3487B-856B-43DC-AEF2-9D3B7BFD5D3E}|happy_new years\\happy_new years.csproj|solutionrelative:happy_new years\\happy_new years.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 162,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Moby-Mikes\\source\\repos\\happy_new years\\happy_new years\\.gitignore",
+              "RelativeDocumentMoniker": "happy_new years\\.gitignore",
+              "ToolTip": "C:\\Users\\Moby-Mikes\\source\\repos\\happy_new years\\happy_new years\\.gitignore",
+              "RelativeToolTip": "happy_new years\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-01T00:44:02.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "happy_new years",
+              "DocumentMoniker": "C:\\Users\\Moby-Mikes\\source\\repos\\happy_new years\\happy_new years\\happy_new years.csproj",
+              "RelativeDocumentMoniker": "happy_new years\\happy_new years.csproj",
+              "ToolTip": "C:\\Users\\Moby-Mikes\\source\\repos\\happy_new years\\happy_new years\\happy_new years.csproj",
+              "RelativeToolTip": "happy_new years\\happy_new years.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-01T00:38:53.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Moby-Mikes\\source\\repos\\happy_new years\\happy_new years\\Program.cs",
+              "RelativeDocumentMoniker": "happy_new years\\Program.cs",
+              "ToolTip": "C:\\Users\\Moby-Mikes\\source\\repos\\happy_new years\\happy_new years\\Program.cs",
+              "RelativeToolTip": "happy_new years\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T00:05:53.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
